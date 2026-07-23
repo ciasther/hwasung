@@ -1,0 +1,45 @@
+Example run of escpos_status_probe.py. This is the evidence that the manual's
+status commands do not answer over USB. The run below is with paper present,
+but the paper-out run looks identical, which is the point.
+
+HMK-072 manual status commands over USB, run [PAPER-PRESENT]
+device 0006:000b found
+
+interface class 7 (7 means printer), subclass 1, protocol 2
+  endpoint 0x01 OUT
+  endpoint 0x02 OUT
+  endpoint 0x83 IN
+  endpoint 0x84 IN
+
+device id (USB control readback works): MFG:HWASUNG;CMD:ESC/POS;MDL:HMK-072;CLS:PRINTER;DES:THERMAL PRINTER
+
+DLE EOT n=1 (printer status)  [10 04 01]
+  expected: real-time printer status
+  no reply: [Errno 110] Operation timed out
+
+DLE EOT n=2 (paper-roll status)  [10 04 02]
+  expected: bit0 no paper, bit3 paper low
+  no reply: [Errno 110] Operation timed out
+
+DLE EOT n=3 (error status)  [10 04 03]
+  expected: real-time error status
+  no reply: [Errno 110] Operation timed out
+
+DLE EOT n=4 (paper-sensor status)  [10 04 04]
+  expected: real-time paper-sensor status
+  no reply: [Errno 110] Operation timed out
+
+GS r n=1 (paper-sensor status)  [1D 72 01]
+  expected: paper end and near-end bits
+  no reply: [Errno 110] Operation timed out
+
+GS r n=2 (drawer-kick status)  [1D 72 02]
+  expected: drawer and sensor status
+  no reply: [Errno 110] Operation timed out
+
+done
+
+The USB control readback (device id) works, so the printer is alive and
+talking. It simply never answers the ESC/POS status commands over USB. The
+paper-out run gives the same six timeouts, which is why the manual's commands
+are useless for detecting paper here. Use read_paper_status.py instead.

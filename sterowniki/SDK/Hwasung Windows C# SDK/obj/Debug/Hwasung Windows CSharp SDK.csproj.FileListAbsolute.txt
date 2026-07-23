@@ -1,0 +1,28 @@
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe.config
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.exe
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows CSharp SDK.csprojResolveAssemblyReference.cache
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Form1.resources
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Properties.Resources.resources
+C:\Users\sefiroth\Documents\Visual Studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows CSharp SDK.csproj.GenerateResource.Cache
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe.config
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung Windows CSharp SDK.csprojAssemblyReference.cache
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Form1.resources
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Properties.Resources.resources
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung Windows CSharp SDK.csproj.GenerateResource.cache
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung Windows CSharp SDK.csproj.CoreCompileInputs.cache
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.exe
+C:\Users\sefiroth\Desktop\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Debug\Hwasung Windows SDK.exe.config
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Debug\Hwasung Windows SDK.exe
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung_Windows_SDK.Form1.resources
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung_Windows_SDK.Properties.Resources.resources
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung Windows CSharp SDK.csproj.GenerateResource.Cache
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung Windows SDK.exe
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung Windows SDK.pdb
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Debug\Hwasung Windows CSharp SDK.csprojResolveAssemblyReference.cache

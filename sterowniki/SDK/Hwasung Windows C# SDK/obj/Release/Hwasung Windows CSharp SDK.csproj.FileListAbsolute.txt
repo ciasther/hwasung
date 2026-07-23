@@ -1,0 +1,10 @@
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Release\Hwasung Windows SDK.exe.config
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Release\Hwasung Windows SDK.exe
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\bin\Release\Hwasung Windows SDK.pdb
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung_Windows_SDK.Form1.resources
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung_Windows_SDK.Properties.Resources.resources
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung Windows CSharp SDK.csproj.GenerateResource.cache
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung Windows SDK.exe
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung Windows SDK.pdb
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung Windows CSharp SDK.csprojAssemblyReference.cache
+C:\Users\sefir\Desktop\Hwasung Windows C# SDK\obj\Release\Hwasung Windows CSharp SDK.csproj.CoreCompileInputs.cache

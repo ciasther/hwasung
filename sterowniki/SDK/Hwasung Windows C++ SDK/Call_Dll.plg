@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Call_Dll - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Call_Dll.pdb" /debug /machine:I386 /out:"Debug/Call_Dll.exe" /pdbtype:sept  ".\Debug\Call_Dll.obj" ".\Debug\Call_DllDlg.obj" ".\Debug\StdAfx.obj" ".\Debug\Call_Dll.res" ".\HwaUSB.lib" "
+<h3>Output Window</h3>
+Linking...
+
+
+
+<h3>Results</h3>
+Call_Dll.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

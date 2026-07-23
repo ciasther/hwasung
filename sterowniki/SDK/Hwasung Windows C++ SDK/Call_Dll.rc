@@ -1,0 +1,193 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 한국어(대한민국) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+LANGUAGE LANG_KOREAN, SUBLANG_DEFAULT
+#pragma code_page(949)
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 18, 1\r\n"
+    "#pragma code_page(949)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\Call_Dll.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""l.kor\\afxres.rc""          // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON                    "res\\Call_Dll.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_CALL_DLL_DIALOG DIALOGEX 0, 0, 319, 252
+STYLE DS_SETFONT | DS_MODALFRAME | WS_POPUP | WS_VISIBLE | WS_CAPTION | WS_SYSMENU
+EXSTYLE WS_EX_APPWINDOW
+CAPTION "Call_Dll"
+FONT 9, "굴림", 0, 0, 0x1
+BEGIN
+    LTEXT           "Model",IDC_STATIC,21,20,47,8
+    LTEXT           "Port",IDC_STATIC,123,19,51,8
+    LTEXT           "Baudrate",IDC_STATIC,206,21,28,8
+    LTEXT           "Status",IDC_STATIC,25,47,24,8
+    LTEXT           "Static",IDC_STATUS,25,59,200,8
+    LTEXT           "Barcode Type",IDC_STATIC,27,175,53,8
+    LTEXT           "QR Code Version",IDC_STATIC,25,206,61,8
+    LTEXT           "Barcode Data",IDC_STATIC,118,176,61,8
+    LTEXT           "QR Code Data",IDC_STATIC,117,205,75,8
+    COMBOBOX        IDC_COMBO1,22,30,94,149,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO2,121,30,79,139,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO3,205,30,87,138,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO4,24,185,80,99,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    COMBOBOX        IDC_COMBO5,24,216,80,89,CBS_DROPDOWNLIST | WS_VSCROLL | WS_TABSTOP
+    EDITTEXT        IDC_EDIT1,117,187,92,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_EDIT2,118,216,94,12,ES_AUTOHSCROLL
+    PUSHBUTTON      "Status Check",IDC_BUTTON1,23,82,93,22
+    PUSHBUTTON      "Receipt Print",IDC_BUTTON2,122,82,78,23
+    PUSHBUTTON      "Pagemode (Standard)",IDC_BUTTON3,205,82,87,24
+    PUSHBUTTON      "Pagemode (Ticket)",IDC_BUTTON4,22,109,93,22
+    PUSHBUTTON      "Full Cut",IDC_BUTTON5,122,109,79,22
+    PUSHBUTTON      "Partial Cut",IDC_BUTTON6,205,111,87,20
+    PUSHBUTTON      "Blackmark Search && cut",IDC_BUTTON7,23,134,92,21
+    PUSHBUTTON      "Barcode Print",IDC_BUTTON8,218,182,66,21
+    PUSHBUTTON      "QR Code Print",IDC_BUTTON9,219,210,66,23
+    PUSHBUTTON      "Firmware Ver",IDC_BUTTON10,121,134,80,22
+    LTEXT           "Static",IDC_VER,211,141,76,8
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 2,0,0,0
+ PRODUCTVERSION 2,0,0,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "041204b0"
+        BEGIN
+            VALUE "CompanyName", "HWASUNG SYSTEM"
+            VALUE "FileDescription", "Call_Dll MFC 응용 프로그램"
+            VALUE "FileVersion", "2, 0, 0, 0"
+            VALUE "InternalName", "Call_Dll"
+            VALUE "LegalCopyright", "Copyright (C) 2012, HWASUNG SYSTEM Co.,Ltd"
+            VALUE "OriginalFilename", "Call_Dll.EXE"
+            VALUE "ProductName", "Call_Dll 응용 프로그램"
+            VALUE "ProductVersion", "2, 0, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x412, 1200
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO
+BEGIN
+    IDD_CALL_DLL_DIALOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 312
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 245
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // 한국어(대한민국) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_KOR)
+#ifdef _WIN32
+LANGUAGE 18, 1
+#pragma code_page(949)
+#endif //_WIN32
+#include "res\Call_Dll.rc2"  // non-Microsoft Visual C++ edited resources
+#include "l.kor\afxres.rc"          // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

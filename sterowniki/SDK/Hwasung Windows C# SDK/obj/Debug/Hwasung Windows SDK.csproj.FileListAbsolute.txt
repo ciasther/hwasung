@@ -1,0 +1,9 @@
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe.config
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.exe
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\bin\Debug\Hwasung Windows SDK.pdb
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.csprojResolveAssemblyReference.cache
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Form1.resources
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung_Windows_SDK.Properties.Resources.resources
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.csproj.GenerateResource.Cache
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.exe
+c:\users\sefiroth\documents\visual studio 2013\Projects\Hwasung Windows SDK\Hwasung Windows SDK\obj\Debug\Hwasung Windows SDK.pdb

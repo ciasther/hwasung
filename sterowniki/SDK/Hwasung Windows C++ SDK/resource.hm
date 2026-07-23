@@ -1,0 +1,4 @@
+// Microsoft Developer Studio generated Help ID include file.
+// Used by Call_Dll.rc
+//
+#define HIDC_COMBO1                     0x806603ef    // IDD_CALL_DLL_DIALOG

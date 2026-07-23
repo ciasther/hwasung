@@ -1,0 +1,5 @@
+Example run of read_paper_status.py with paper loaded.
+
+status byte : 0x00
+meaning     : OK (paper loaded, no errors)
+reply time  : 0 ms
